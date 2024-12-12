@@ -32,7 +32,7 @@ Uso
 Estructura del proyecto
 La estructura de directorios es la siguente:
 
-/App-wines
+`/App-wines
 │
 ├── index.html            # Página principal con la lista de vinos         
 ├── style.css             # Estilos personalizados
@@ -41,6 +41,7 @@ La estructura de directorios es la siguente:
 ├── js                    # Esta carpeta tiene el archivo .js
     ├── app.js            # Este archivo tiene la lógica principal en JavaScript
 └── README.md             # Este archivo de documentación
+`
 
 Funcionalidades
 - Visualización de productos: Los vinos son listados en una tabla con sis detalles(nombre, precio, stock, tipo)
