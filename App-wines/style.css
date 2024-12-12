@@ -1,0 +1,19 @@
+body {
+    background-color: #cc759a;
+}
+
+h1 {
+    color: #5a0735;
+}
+
+.card-title{
+    color: #5a0735;
+}
+
+h3{
+    color: white;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
